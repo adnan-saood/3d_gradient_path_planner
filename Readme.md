@@ -2,7 +2,7 @@
 
 
 
-![Path Example](https://github.com/adnan-saood/3d_gradient_path_planner/path.bmp)
+![Path Example](https://github.com/adnan-saood/3d_gradient_path_planner/blob/main/path.png)
 ![Gradient Sections](https://github.com/adnan-saood/3d_gradient_path_planner/blob/main/Gradient_Sections.png)
 
 
