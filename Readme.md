@@ -17,6 +17,6 @@ This is a minor edit to the existing coursera course "Computational Motion Plann
 
 In MATLAB, cd into the download folder and type:
 ```sh
->> pot3d.m
+>> main.m
 ```
 
